@@ -6,6 +6,7 @@ public class javaGit {
 		// TODO Auto-generated method stub
 		System.out.println("hi");
 		System.out.println("JavaGitX-1");
+		System.out.println("JavaGitX-2");
 	}
 
 }
